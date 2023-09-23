@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+
+lib/v4-core
+.github
